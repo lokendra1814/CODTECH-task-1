@@ -66,3 +66,5 @@ Create CRUD (Create, Read, Update, Delete) functionality for product management.
 Implement inventory level tracking logic.
 
 Design and implement the GUI.
+![WhatsApp Image 2024-12-20 at 23 01 49_748717e7](https://github.com/user-attachments/assets/79e35f7a-f8c3-4354-95f8-d89a62c74677)
+
